@@ -1,6 +1,6 @@
 # Securing FastAPI Applications
-### A Comprehensive Guide to Building Secure APIs with FastAPI
-###### server security guide by volkansah
+###### A Comprehensive Guide to Building Secure APIs with FastAPI
+server security guide by volkansah
 
 FastAPI is a modern, high-performance web framework for building APIs with Python. While its speed and developer-friendly syntax make it an excellent choice, securing your application properly is crucial.
 
